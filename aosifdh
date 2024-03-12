@@ -1,5 +1,9 @@
 public class helloWorld {
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("Hello Worlasdasdasd!");
+=======
+        System.out.println("Hello Worlasdd!");
+>>>>>>> newBranch
     }
 }
